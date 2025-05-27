@@ -1,8 +1,7 @@
 # Luxury
 
-**Value**: xxx, AR xxx, Solved xxx
+**Value**: 500, AR N/A, Solved 0/21
 
-**Author**: [@xanchelavederiver](https://t.me/xanchelavederiver)
 
 `Luxury` is SUCTF 2025 task, category `forensics`.
 
