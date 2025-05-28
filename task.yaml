@@ -2,8 +2,8 @@
 title: Luxury
 description: |
   Where is the flag?!
-  
-  [luxury.zip](https://storage.yandexcloud.net/suctf2025/luxury.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=YCAJEbpeATt9AOyI2GupSkDDx%2F20250524%2Fru-central1%2Fs3%2Faws4_request&X-Amz-Date=20250524T080203Z&X-Amz-Expires=604800&X-Amz-Signature=e4218c0e670355d384684dcaf66dfd1cc6eb6c7f4c62553f49b041bf95eb14cd&X-Amz-SignedHeaders=host)
+
+  [luxury.zip](https://storage.yandexcloud.net/suctf-glacier/2025/luxury.zip)
 categories:
   - forensics
 scoring:
